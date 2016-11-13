@@ -1,4 +1,4 @@
-package Library
+package Library.DicePools
 
 /**
   iDiePool Interface
@@ -6,7 +6,7 @@ package Library
   @author Matt "Barakis" Brown
 */
 
-interface IDiePool : IDie
+interface IDicePool : IDie
 {
   abstract lateinit var diePool: Array<IDie>
   abstract fun getDiceString() : String  
