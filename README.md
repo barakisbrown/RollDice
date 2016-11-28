@@ -14,3 +14,4 @@ DicePool -- Class that will roll multiple dice at one time weather they are regu
 
 * NWOD - New World of Darkness - Dice Rolling mechanics are done for this system. I am not sure if these
          are up to spec with revised NWOD called Chronicles of Darkness
+* Storyteller          
